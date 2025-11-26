@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+*_files/
+stylisharticle.cls
+index.tex
+index.html
+index.pdf
